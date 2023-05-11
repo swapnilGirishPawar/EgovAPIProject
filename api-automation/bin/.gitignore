@@ -1,0 +1,12 @@
+.DS_Store
+target/
+.project
+.settings
+.classpath
+.vscode
+.metadata/
+bin/
+build/*
+Jenkinsfile
+reports/
+qa.yaml
